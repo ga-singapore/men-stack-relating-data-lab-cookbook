@@ -103,7 +103,6 @@ module.exports = {};
 *   Export your router for use in server.js
 
 ```js
-
 // routers/foods.js
 
 const express = require("express")
@@ -169,13 +168,13 @@ Import and include the middleware function above all of the routes and controlle
 
 ```js
 // server.js
+
 const isSignedIn = require('./middleware/is-signed-in.js');
 ```
 
 For this application, users must be signed in to view any of the routes associated with their pantry. Therefore, isSignedIn should come above the foods controller, but not before auth.
 
 ```js
-
 app.use('/auth', authController);
 app.use(isSignedIn)
 app.use('/users/:userId/foods',foodsController);

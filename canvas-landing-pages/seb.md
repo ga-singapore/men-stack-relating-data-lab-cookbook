@@ -16,4 +16,4 @@ In this lab, you'll create **Cookbook**, a full-stack application for managing r
 
 ## Starter code
 
-🟢 [Starter code](https://git.generalassemb.ly/modular-curriculum-all-courses/men-stack-session-auth-template)
+🟢 [Starter code](https://git.generalassemb.ly/sei-sg/men-stack-jwt-auth-template)
