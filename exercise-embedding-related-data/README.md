@@ -1,5 +1,7 @@
-# ![MEN Stack Relating Data Lab - Cookbook - Exercise](./assets/hero.png)
-
+<h1>
+  <span class="headline">Cookbook</span>
+  <span class="subhead">Exercise</span>
+</h1>
 ## Introduction
 
 In this lab you'll create the Cookbook app, a dynamic pantry manager for cooking enthusiasts! For this exercise, you'll be practicing embedding a new data schema within a user model. Users will have the power to perform full CRUD operations to manage their pantry items with ease. They'll also have the opportunity to explore other users' pantries, drawing inspiration and sharing their love for cooking.

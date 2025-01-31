@@ -1,5 +1,7 @@
-# ![MEN Stack Relating Data Lab - Cookbook - Exercise](./assets/hero.png)
-
+<h1>
+  <span class="headline">Cookbook</span>
+  <span class="subhead">Exercise</span>
+</h1>
 ## Introduction
 
 In this lab you'll create the Cookbook app, a dynamic recipe organization tool tailored for cooking enthusiasts! For this exercise, you'll be developing a web application that's all about managing recipes and their ingredients. You'll practice referencing related data schemas in MongoDB with two models - `Recipe` and `Ingredient`. Users will have the ability to perform full CRUD operations on recipes, manage their recipe collections, and explore other users' recipes for inspiration.
