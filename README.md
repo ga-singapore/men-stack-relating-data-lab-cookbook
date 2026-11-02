@@ -30,12 +30,12 @@ Estimated time to complete each core lab exercise: **8 hrs**
 
 ## Starter code
 
-🟢 [Starter code](https://git.generalassemb.ly/modular-curriculum-all-courses/men-stack-session-auth-template)
+🟢 [Starter code](https://github.com/ga-curriculum/men-stack-session-auth-template-v2)
 
 
 ## Solution code
 
-🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/men-stack-relating-data-lab-cookbook-solution)
+🏁 [Solution code](https://github.com/ga-curriculum/men-stack-relating-data-lab-cookbook-solution)
 
 ## Internal resources
 
